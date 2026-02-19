@@ -1,0 +1,152 @@
+!!!COM: Maddalena Casulana
+!!!PTL: Primo libro de' madrigali a quattro voci
+!!!PPP: Venezia
+!!!PPR: Scotto
+!!!PDT: 1568
+!!!OTL: 13. Fredd’è la donna mia
+!!!original-voices: 4
+!!!extant-voices: 2
+!!!complete: N
+!!!final: F
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"[Basso]	*	*I"Tenore	*	*I"[Alto]	*	*I"Canto	*
+*I'B.	*	*I'T.	*	*I'A.	*	*I'C.	*
+*oclefF4	*	*oclefC3	*	*oclefC2	*	*oclefC1	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+1F	Fred-	1A	Fred-	1c	Fred-	1f	Fred-
+2F	-d’è	2A	-d’è	2c	-d’è	2f	-d’è
+4r	.	4r	.	4r	.	4r	.
+4BB-	la	4B-	la	4d	la	4f	la
+=2	=2	=2	=2	=2	=2	=2	=2
+2F	don-	2A	don-	4c	don-	2f	don-
+.	.	.	.	4c	-na	.	.
+2BB-	-na	2d	-na	1f	mi-	2f	-na
+1C	mi-	2c	mi-	.	.	1cc	mi-
+.	.	2c	-a	4e	.	.	.
+.	.	.	.	4d	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2C	-a	2r	.	2e	-a	2cc	-a
+2C	Et	2c	Et	2e	Et	2g	Et
+2C	io,	2c	io,	2e	io,	2g	io,
+4r	.	4r	.	4r	.	4r	.
+4C	Et	4G	Et	4e	Et	4cc	Et
+4C	io	4G	io	4e	io	4cc	io
+4C	sì	4G	sì	4e	sì	4cc	sì
+2C	cal-	2c	cal-	2e	cal-	2g	cal-
+2AA	-do	2c#X	-do	2e	-do	2a	-do
+[2D	che	[2d	che	[2f	che	[2a	che
+=4	=4	=4	=4	=4	=4	=4	=4
+2D]	.	2d]	.	2f]	.	2a]	.
+2AA	mi	2e	mi	2a	mi	2cc	mi
+2D	strug-	2f	strug-	2a	strug-	2dd	strug-
+2G	-go e	2d	-go e	2g	-go e	2b-	-go e
+=5	=5	=5	=5	=5	=5	=5	=5
+1A	sfac-	1c#X	sfac-	1e	sfac-	1a	sfac-
+2D	-cio	2d	-cio	2f#X	-cio,	2a	-cio
+2F#X	El-	2A	El-	2r	.	2d	El-
+=6	=6	=6	=6	=6	=6	=6	=6
+2G	-l’il	2Bn	-l’il	4r	.	2d	-l’il
+.	.	.	.	4Bn	El-	.	.
+2.E	fuo-	2.G#X	fuo-	4Bn	-l’il	2.e	fuo-
+.	.	.	.	2Bn	fuo-	.	.
+4E	-co	4G#X	-co	4Bn	-co	4e	-co
+2E	m’in-	2G#X	m’in-	2Bn	m’in-	2e	m’in-
+=7	=7	=7	=7	=7	=7	=7	=7
+1D	-vi-	1A	-vi-	1d	-vi-	1f#X	-vi-
+2G	-a	2Bn	-a	2d	-a	2g	-a
+4r	.	4r	.	4r	.	4r	.
+4E	Et	4Bn	Et	4e	Et	4g#X	Et
+=8	=8	=8	=8	=8	=8	=8	=8
+4.A	io	4.c#X	io	4.e	io	4.a	io
+8A	che	8c#X	che	8e	che	8a	che
+4.D	fuo-	4.d	fuo-	4.a	fuo-	4.f#X	fuo-
+8D	-co	8d	-co	8a	-co	8f#X	-co
+4.G	son	4.Bn	son	4.d	son	4.g	son
+8G	fo	8Bn	fo	8g	fo	8d	fo
+4C	lei	4cni	lei	4e	lei	4g	lei
+4C	di	4c	di	4e	di	4g	di
+=9	=9	=9	=9	=9	=9	=9	=9
+1BB-	ghiac-	1F	ghiac-	1d	ghiac-	1b-	ghiac-
+2BB-	-cio,	2F	-cio,	2d	-cio,	2b-	-cio,
+4r	.	4r	.	4r	.	4r	.
+4BB-	fo	4d	fo	4f	fo	4b-	fo
+=10	=10	=10	=10	=10	=10	=10	=10
+4C	lei	4c	lei	4e-X	lei	4g	lei
+4E-X	di	2B-	di	4e-X	di	4g	di
+2F	ghiac-	.	.	2c	ghiac-	2f	ghiac-
+.	.	4A	ghiac-	.	.	.	.
+2BB-	-cio	4B-	-cio	4d	-cio,	2f	-cio
+.	.	4B-	Non	4d	Non	.	.
+2r	.	[2B-	so	[2d	so	4r	.
+.	.	.	.	.	.	4f	Non
+=11	=11	=11	=11	=11	=11	=11	=11
+1r	.	4B-]	.	4d]	.	4f	so
+.	.	4A	co-	4f	co-	4a	co-
+.	.	4c	-me	4e	-me	4g	-me
+.	.	4d	se	4d	se	4f	se
+2r	.	2A	sti-	2c#X	sti-	2e	sti-
+4r	.	4D	-a	4d	-a	4d	-a
+4D	Che ’l	4A	Che ’l	4f#X	Che ’l	4dd	Che ’l
+=12	=12	=12	=12	=12	=12	=12	=12
+4.G	ghiac-	4.Bn	ghiac-	4.g	ghiac-	4.dd	ghiac-
+8G	-cio	8Bn	-cio	8g	-cio	8dd	-cio
+4G	man-	4Bn	man-	4g	man-	4dd	man-
+4G	-di	4B-X	-di	4d	-di	4g	-di
+2E-X	fuor	2e-X	fuor	2g	fuor	2b-	fuor
+2G	Il	2d	Il	2g	Il	2b-	Il
+=13	=13	=13	=13	=13	=13	=13	=13
+1D	fuo-	1d	fuo-	1f#X	fuo-	1a	fuo-
+2D	-co,	2d	-co,	2f#X	-co	2a	-co,
+4r	.	4r	.	4r	.	4r	.
+4D	e ’l	4d	e ’l	4f#X	e ’l	4a	e ’l
+=14	=14	=14	=14	=14	=14	=14	=14
+2G	fuo-	2d	fuo-	2g	fuo-	2b-	fuo-
+2F	-co il	2A	-co il	2d	-co il	2a	-co il
+1E	ghiac-	1Bn	ghiac-	1e	ghiac-	1g#X	ghiac-
+=15	=15	=15	=15	=15	=15	=15	=15
+2A	-cio.	2c#X	-cio.	2e	-cio,	2a	-cio,
+4r	.	4r	.	4r	.	4r	.
+4D	Che ’l	4A	Che ’l	4f#X	Che ’l	4dd	Che ’l
+4.G	ghiac-	4.Bn	ghiac-	4.g	ghiac-	4.dd	ghiac-
+8G	-cio	8Bn	-cio	8g	-cio	8dd	-cio
+4G	man-	4Bn	man-	4g	man-	4dd	man-
+4D	-di	4f#X	-di	4a	-di	4dd	-di
+=16	=16	=16	=16	=16	=16	=16	=16
+2A	fuor	2e	fuor	2a	fuor	2cc#X	fuor
+2E	Il	2e	Il	2g	Il	2bn	Il
+1F#X	fuo-	1c#X	fuo-	1f#X	fuo-	1a#X	fuo-
+=17	=17	=17	=17	=17	=17	=17	=17
+2BBn	-co,	2d#X	-co,	2f#X	-co,	2bn	-co,
+4r	.	4r	.	4r	.	4r	.
+4BBn	e ’l	4d#X	e ’l	4f#X	e ’l	4bn	e ’l
+2E	fuo-	2Bn	fuo-	2e	fuo-	2g#X	fuo-
+2E	-co il	2Bn	-co il	2e	-co il	2g#X	-co il
+=18	=18	=18	=18	=18	=18	=18	=18
+1E	ghiac-	1Bn	ghiac-	1e	ghiac-	1g#X	ghiac-
+2AA	-cio.	2c#X	-cio.	2e	-cio.	2a	-cio.
+[2GG	Sal-	[2d	Sal-	[2g	Sal-	[2bn	Sal-
+=19	=19	=19	=19	=19	=19	=19	=19
+2GG]	.	2d]	.	2g]	.	2b]	.
+2C	-l’A-	2e	-l’A-	2g	-l’A-	2cc	-l’A-
+1C	-mo-	1c	-mo-	4e	-mo-	1g	-mo-
+.	.	.	.	2f	.	.	.
+.	.	.	.	4e	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+00F	-re.	00c	-re.	00f	-re.	00a	-re.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!EED: Deutsch, Catherine
+!!!EED-reconstruction1: Deutsch, Catherine
+!!!EED-reconstruction2: Busnel, Marc
+!!!YEM: Copyright © Digital Casulana 2025
+!!!URL-digitalcasulana: https://cenhtor-msh-lorraine.cnrs.fr/s/digital_casulana/item/17990
+!!!URL-nakala: https://nakala.fr/10.34847/nkl.20eb5456
+!!!URL-youtube: https://api.nakala.fr/data/10.34847/nkl.20eb5456/4de9b5d81e8e1da881c8c8f22a4262e2305241bd

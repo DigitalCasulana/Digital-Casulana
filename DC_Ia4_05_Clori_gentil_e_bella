@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <mei xml:id="m-1" meiversion="4.0.1" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
     <meiHead xml:id="m-2">
         <fileDesc xml:id="m-3">
@@ -1544,7 +1544,7 @@
                                             <accid xml:id="m-919" accid="s"/>
                                         </note>
                                         <note xml:id="m-921" dur="8" dur.ppq="128" oct="4" pname="f" pnum="65" tstamp.real="00:01:29.7">
-                                            <accid xml:id="m-922" accid="n" func="edit"/>
+                                            <accid xml:id="m-922" accid="s" func="edit"/>
                                         </note>
                                     </beam>
                                     <note xml:id="m-923" dur="2" dur.ppq="512" oct="4" pname="g" pnum="68" tstamp.real="00:01:30">

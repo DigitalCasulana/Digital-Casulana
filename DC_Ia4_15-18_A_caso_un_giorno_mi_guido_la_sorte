@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <mei xml:id="m-1" meiversion="4.0.1" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
     <meiHead xml:id="m-2">
         <fileDesc xml:id="m-3">
@@ -6336,7 +6336,7 @@
                                         </verse>
                                     </note>
                                     <note xml:id="m-3778"  dur="4" dur.ppq="256" oct="4" pname="b" pnum="70"  tstamp.real="00:04:47.4">
-                                        <accid xml:id="m-3779" accid.ges="f" func="edit"/>
+                                        <accid xml:id="m-3779" accid="n" func="edit"/>
                                         <verse xml:id="m-3859" n="1">
                                             <syl xml:id="m-3860" con="d" wordpos="m">m’a</syl>
                                         </verse>
